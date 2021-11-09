@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connstring-Web.config Connection String" description="connstring Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:sqlvm200.eastus.cloudapp.azure.com,1433;Initial Catalog=appdb;Persist Security Info=False;User ID=demousr;Password=Shakinstev123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Work\\Udemy_2020\\AZ-104\\Deploy\ and\ manage\ Azure\ compute\ resources\\Lab\ -\ Exercise\ -\ Azure\ Web\ App\ -\ Virtual\ Network\\database-solution\\database-project\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connstring']/@connectionString" />
+  </parameter>
+</parameters>

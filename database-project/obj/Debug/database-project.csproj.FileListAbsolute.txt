@@ -1,0 +1,160 @@
+C:\App\database-solution\database-project\bin\database-project.dll.config
+C:\App\database-solution\database-project\bin\database-project.dll
+C:\App\database-solution\database-project\bin\database-project.pdb
+C:\App\database-solution\database-project\bin\roslyn\csc.exe
+C:\App\database-solution\database-project\bin\roslyn\csc.exe.config
+C:\App\database-solution\database-project\bin\roslyn\csc.rsp
+C:\App\database-solution\database-project\bin\roslyn\csi.exe
+C:\App\database-solution\database-project\bin\roslyn\csi.exe.config
+C:\App\database-solution\database-project\bin\roslyn\csi.rsp
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\App\database-solution\database-project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\App\database-solution\database-project\bin\roslyn\System.AppContext.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Collections.Immutable.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Console.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Globalization.Calendars.dll
+C:\App\database-solution\database-project\bin\roslyn\System.IO.Compression.dll
+C:\App\database-solution\database-project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\App\database-solution\database-project\bin\roslyn\System.IO.FileSystem.dll
+C:\App\database-solution\database-project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Net.Http.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Net.Sockets.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\App\database-solution\database-project\bin\roslyn\System.ValueTuple.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Xml.XPath.dll
+C:\App\database-solution\database-project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\App\database-solution\database-project\bin\roslyn\vbc.exe
+C:\App\database-solution\database-project\bin\roslyn\vbc.exe.config
+C:\App\database-solution\database-project\bin\roslyn\vbc.rsp
+C:\App\database-solution\database-project\bin\roslyn\VBCSCompiler.exe
+C:\App\database-solution\database-project\bin\roslyn\VBCSCompiler.exe.config
+C:\App\database-solution\database-project\bin\Antlr3.Runtime.dll
+C:\App\database-solution\database-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\App\database-solution\database-project\bin\Microsoft.Web.Infrastructure.dll
+C:\App\database-solution\database-project\bin\Newtonsoft.Json.dll
+C:\App\database-solution\database-project\bin\System.Web.Helpers.dll
+C:\App\database-solution\database-project\bin\System.Web.Mvc.dll
+C:\App\database-solution\database-project\bin\System.Web.Optimization.dll
+C:\App\database-solution\database-project\bin\System.Web.Razor.dll
+C:\App\database-solution\database-project\bin\System.Web.WebPages.Deployment.dll
+C:\App\database-solution\database-project\bin\System.Web.WebPages.dll
+C:\App\database-solution\database-project\bin\System.Web.WebPages.Razor.dll
+C:\App\database-solution\database-project\bin\WebGrease.dll
+C:\App\database-solution\database-project\bin\System.Web.Helpers.xml
+C:\App\database-solution\database-project\bin\System.Web.Mvc.xml
+C:\App\database-solution\database-project\bin\System.Web.Optimization.xml
+C:\App\database-solution\database-project\bin\System.Web.Razor.xml
+C:\App\database-solution\database-project\bin\System.Web.WebPages.xml
+C:\App\database-solution\database-project\bin\System.Web.WebPages.Deployment.xml
+C:\App\database-solution\database-project\bin\System.Web.WebPages.Razor.xml
+C:\App\database-solution\database-project\bin\Newtonsoft.Json.xml
+C:\App\database-solution\database-project\bin\Antlr3.Runtime.pdb
+C:\App\database-solution\database-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\App\database-solution\database-project\obj\Debug\database-project.csprojAssemblyReference.cache
+C:\App\database-solution\database-project\obj\Debug\database-project.csproj.CoreCompileInputs.cache
+C:\App\database-solution\database-project\obj\Debug\database-project.csproj.CopyComplete
+C:\App\database-solution\database-project\obj\Debug\database-project.dll
+C:\App\database-solution\database-project\obj\Debug\database-project.pdb
+C:\App\database-solution\database-project\bin\Views\Web.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Views\Web.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\database-project.dll.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\database-project.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\database-project.pdb
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\csc.exe
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\csc.exe.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\csc.rsp
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\csi.exe
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\csi.exe.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\csi.rsp
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.AppContext.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Console.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.IO.Compression.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Net.Http.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Net.Sockets.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.ValueTuple.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Xml.XPath.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\vbc.exe
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\vbc.exe.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\vbc.rsp
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\VBCSCompiler.exe
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Antlr3.Runtime.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Newtonsoft.Json.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Helpers.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Mvc.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Optimization.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Razor.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.WebPages.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.WebPages.Razor.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\WebGrease.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Helpers.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Mvc.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Optimization.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.Razor.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.WebPages.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\System.Web.WebPages.Razor.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Newtonsoft.Json.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Antlr3.Runtime.pdb
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\obj\Debug\database-project.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\obj\Debug\database-project.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\obj\Debug\database-project.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\obj\Debug\database-project.dll
+C:\Work\Udemy_2020\AZ-104\Deploy and manage Azure compute resources\Lab - Exercise - Azure Web App - Virtual Network\database-solution\database-project\obj\Debug\database-project.pdb
